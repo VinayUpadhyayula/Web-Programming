@@ -1,0 +1,15 @@
+Name:	 Venkata Sri Sai Surya Vinay Upadhyayula
+B-Number: B00981964
+Email: vupadhyayula@binghamton.edu
+
+The project is implemented to develop the backend fucntionality of a spreadsheet in various scenarios as as per the project specifications given in the course(zdu) website.
+
+Project setup and configuration and setup was done as guided by professor.
+
+Step by step scenarios are added and git commits were pushed periodically.
+
+VM is setup and is up and running and the screenshot of the same can be found in the file "vm.png" in the submit/prj1-sol directory.
+
+The code is documented with inline comments well enough to understand what each block of code does.
+
+All the provided test cases(33) are passed when a "npm test" command was run in the terminal.

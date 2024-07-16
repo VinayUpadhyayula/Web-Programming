@@ -1,0 +1,12 @@
+Name:		Venkata Sri Sai Surya Vinay Upadhyayula
+B-Number:	B00981964
+Email:		vupadhyayula@binghamton.edu
+
+This project is a database implementation of persisting the project1 spreadsheet evaluation logic using a popular no sql database MongoDb. The project is setup and implemented as per the requirements given in the project specifications on course website.
+
+I have chosen the database representation as follows(3rd format in the requirements document):
+    A collection per spreadsheet. Each collection would contain {cellId, expr} documents with an index on cellId.
+
+Hence my documents are indexed based on cellId.
+
+All the requirements are met and all the 57 tests (including 11 spreadhseet DAO test are green). Also added the code for clear() test case.

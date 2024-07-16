@@ -1,0 +1,9 @@
+Name:		Venkata Sri Sai Surya Vinay Upadhyayula
+B-Number:	B00981964
+Email:		vupadhyayula@binghamton.edu
+
+This project is to implement and expose webservices for the different database functionalities built in prject 2.The project is setup and implemented as per the requirements given in the project specifications on course website. 
+
+7 End points have been exposed as webservices and can also be tested using curl command. The code was also tested against various curl commands upon test1-ss.json file on the server. The log generated is similar to that of tha annotated log provided in the project specification document.
+
+All the 18 test cases have passed when a npm run command is run within the prj3-sol directory.
